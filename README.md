@@ -1,4 +1,4 @@
-# SQLAlchemy Homework - Surfs Up!
+# SQLAlchemy - Surfs Up!
 
 ![surfs-up.png](Images/surfs-up.png)
 
@@ -60,9 +60,6 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
     ![station-histogram](Images/station-histogram.png)
 
-* Close out your session.
-
-- - -
 
 ## Step 2 - Climate App
 
