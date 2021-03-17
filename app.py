@@ -1,5 +1,4 @@
-# Python code for homework SQL Chalenge
-# Juan F Ramirez Tovar
+# Python code for homework SQLAlchemy Challenge
 
 # Import libraries
 import matplotlib.pyplot as plt
