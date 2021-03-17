@@ -1,4 +1,4 @@
-# SQLAlchemy - Surfs Up!
+# SQLAlchemy - Surfs Up! 🌦️
 
 ![surfs-up.png](Images/surfs-up.png)
 
