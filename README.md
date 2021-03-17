@@ -1,4 +1,4 @@
-# <center>SQLAlchemy - Surfs Up!</center></h1> 
+# SQLAlchemy - Surfs Up! 
 
 ![surfs-up.png](Images/surfs-up.png)
 
