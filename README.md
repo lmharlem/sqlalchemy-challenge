@@ -4,7 +4,7 @@
 
 You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. 
 
-## Step 1 - Climate Analysis and Exploration 🌦️
+## Step 1 - Climate Analysis and Exploration 
 
 To begin, use Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. 
 
